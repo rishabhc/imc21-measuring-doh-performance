@@ -58,4 +58,4 @@ The entire dataset is present at `data/anonymized_dataset.csv`. Explanation of e
 
 
 ## Contact
-For any questions, please reach out to Rishabh Chhabra at `chhabra4@illinois.edu`
+For any questions, please reach out to Rishabh Chhabra at ~~chhabra4@illinois.edu~~ rishabh.chhabra561@gmail.com
